@@ -1,0 +1,117 @@
+id,name,ingredients,steps,diet,calories,time
+1,Classic Tomato Pasta,"chicken breast, cheese, ginger, oil, onion, pasta, salt, tomato","Step 1: cook the ginger. Step 2: Add chicken breast and cook. Step 3: cut and serve.",nonveg,470,35
+2,Tofu Scramble,"cheese, egg, flour, garlic, oil, onion, pepper, salt","Step 1: slice the oil. Step 2: Add onion and cook. Step 3: mix and serve.",veg,574,40
+3,Lamb Korma,"coriander, garlic, lamb cubes, oil, onion, pepper, salt, turmeric","Step 1: mix the coriander. Step 2: Add garlic and cook. Step 3: bake and serve.",nonveg,620,45
+4,Vegetable Curry,"flour, ginger, oil, onion, pasta, pepper, salt, tomato","Step 1: chop the flour. Step 2: Add ginger and cook. Step 3: boil and serve.",veg,490,20
+5,Spinach and Feta Quiche,"chicken, cumin, egg, ginger, salt, sugar, turmeric","Step 1: slice the cumin. Step 2: Add egg and cook. Step 3: boil and serve.",nonveg,636,30
+6,Pork Chops with Apples,"carrot, cumin, egg, flour, ginger, salt, turmeric","Step 1: fry the egg. Step 2: Add ginger and cook. Step 3: cook and serve.",nonveg,416,40
+7,Tofu Scramble,"butter, garlic, oil, onion, peas, salt, shrimp, sugar","Step 1: simmer the butter. Step 2: Add garlic and cook. Step 3: steam and serve.",nonveg,793,30
+8,Potato Salad,"carrot, cheese, garlic, lamb cubes, salt, sugar","Step 1: cut the salt. Step 2: Add garlic and cook. Step 3: fry and serve.",nonveg,618,25
+9,Chicken Noodle Soup,"cheese, chicken, flour, garlic, ginger, oil, salt, tomato","Step 1: chop the ginger. Step 2: Add garlic and cook. Step 3: chop and serve.",nonveg,736,25
+10,Turkey Chili,"chicken, cumin, ginger, pepper, salt, tomato, turkey","Step 1: simmer the pepper. Step 2: Add tomato and cook. Step 3: slice and serve.",nonveg,778,60
+11,Apple Pie,"butter, cheese, egg, flour, milk, onion, sugar, turmeric","Step 1: chop the turmeric. Step 2: Add flour and cook. Step 3: cook and serve.",veg,553,30
+12,Baked Salmon with Asparagus,"carrot, cheese, coriander, egg, flour, garlic, oil, salt","Step 1: boil the coriander. Step 2: Add cheese and cook. Step 3: simmer and serve.",nonveg,664,45
+13,Baked Salmon with Asparagus,"butter, cheese, egg, oil, salmon, salt, sugar, turmeric","Step 1: mix the salmon. Step 2: Add turmeric and cook. Step 3: slice and serve.",nonveg,788,60
+14,Tuna Salad Sandwich,"butter, egg, ginger, oil, salt, sugar, tomato, turmeric","Step 1: chop the turmeric. Step 2: Add butter and cook. Step 3: fry and serve.",nonveg,570,35
+15,Quinoa Salad,"cumin, flour, garlic, ginger, oil, onion, pepper, salt","Step 1: fry the salt. Step 2: Add garlic and cook. Step 3: boil and serve.",veg,388,40
+16,Prawn Biryani,"butter, garlic, lamb, oil, onion, pepper, prawns, rice","Step 1: mix the oil. Step 2: Add pepper and cook. Step 3: simmer and serve.",nonveg,591,60
+17,Cheese Omelette,"butter, flour, ginger, oil, onion, pepper, rice, salt","Step 1: boil the butter. Step 2: Add pepper and cook. Step 3: boil and serve.",veg,386,40
+18,Tofu Scramble,"carrot, cheese, flour, garlic, milk, oil, salt, sugar","Step 1: boil the flour. Step 2: Add garlic and cook. Step 3: slice and serve.",veg,497,30
+19,Pork Chops with Apples,"flour, garlic, ginger, oil, onion, salt, sugar, turmeric","Step 1: boil the turmeric. Step 2: Add ginger and cook. Step 3: slice and serve.",nonveg,481,25
+20,Lemon Herb Chicken,"carrot, chicken breast, coriander, egg, ginger, oil, potato, salt","Step 1: bake the ginger. Step 2: Add coriander and cook. Step 3: steam and serve.",nonveg,663,45
+21,Apple Pie,"butter, egg, ginger, oil, onion, pasta, salt, sugar","Step 1: bake the butter. Step 2: Add pasta and cook. Step 3: fry and serve.",veg,553,25
+22,Lamb Korma,"coriander, garlic, ginger, lamb, oil, onion, pepper, salt","Step 1: chop the oil. Step 2: Add ginger and cook. Step 3: cut and serve.",nonveg,707,35
+23,Vegetable Curry,"cheese, egg, flour, garlic, oil, onion, salt, sugar","Step 1: steam the sugar. Step 2: Add garlic and cook. Step 3: bake and serve.",nonveg,512,35
+24,Potato Salad,"carrot, cheese, flour, garlic, ginger, salt, sugar, turmeric","Step 1: steam the garlic. Step 2: Add carrot and cook. Step 3: cook and serve.",veg,568,30
+25,Apple Pie,"butter, cumin, egg, garlic, oil, onion, potato, sugar","Step 1: chop the cumin. Step 2: Add potato and cook. Step 3: fry and serve.",veg,484,20
+26,Spinach and Feta Quiche,"butter, carrot, cheese, coriander, egg, ginger, milk, salt","Step 1: cut the cheese. Step 2: Add milk and cook. Step 3: fry and serve.",nonveg,426,35
+27,Pork Chops with Apples,"cumin, egg, ginger, oil, onion, pepper, pork, salt","Step 1: fry the oil. Step 2: Add ginger and cook. Step 3: cook and serve.",nonveg,688,25
+28,Potato Salad,"egg, flour, milk, onion, pepper, rice, salt, sugar","Step 1: fry the pepper. Step 2: Add egg and cook. Step 3: simmer and serve.",nonveg,609,30
+29,Lemon Herb Chicken,"carrot, cheese, chicken, cumin, oil, onion, pepper, salt","Step 1: slice the pepper. Step 2: Add carrot and cook. Step 3: chop and serve.",nonveg,570,35
+30,Spicy Chicken Stir-fry,"chicken breast, egg, flour, garlic, ginger, oil, salt, tomato","Step 1: cook the ginger. Step 2: Add flour and cook. Step 3: slice and serve.",nonveg,567,60
+31,Chocolate Chip Cookies,"butter, cheese, flour, milk, oil, onion, pepper, rice","Step 1: mix the pepper. Step 2: Add flour and cook. Step 3: slice and serve.",veg,789,35
+32,Quinoa Salad,"butter, carrot, cheese, flour, garlic, pepper, rice, sugar","Step 1: slice the butter. Step 2: Add garlic and cook. Step 3: fry and serve.",veg,789,25
+33,Tuna Salad Sandwich,"butter, coriander, cumin, flour, garlic, oil, potato, salt","Step 1: chop the potato. Step 2: Add cumin and cook. Step 3: cook and serve.",veg,736,20
+34,Black Bean Burgers,"butter, cheese, coriander, egg, ginger, oil, pepper, rice","Step 1: cook the pepper. Step 2: Add cheese and cook. Step 3: slice and serve.",nonveg,579,40
+35,Baked Salmon with Asparagus,"butter, egg, ginger, oil, potato, salmon fillet, salt, sugar","Step 1: slice the egg. Step 2: Add ginger and cook. Step 3: simmer and serve.",nonveg,457,45
+36,Mushroom Risotto,"flour, garlic, ginger, oil, onion, pepper, salt, tomato","Step 1: slice the tomato. Step 2: Add ginger and cook. Step 3: boil and serve.",veg,559,40
+37,Apple Pie,"carrot, cheese, coriander, ginger, milk, oil, onion, salt","Step 1: chop the coriander. Step 2: Add onion and cook. Step 3: bake and serve.",veg,684,20
+38,Vegetable Curry,"carrot, cheese, ginger, onion, pasta, pepper, salt, sugar","Step 1: bake the ginger. Step 2: Add pepper and cook. Step 3: cook and serve.",veg,726,45
+39,Cheese Omelette,"carrot, cheese, coriander, egg, flour, garlic, oil, tomato","Step 1: slice the oil. Step 2: Add cheese and cook. Step 3: fry and serve.",nonveg,379,30
+40,Lentil Soup,"butter, carrot, cheese, ginger, oil, potato, salt, sugar","Step 1: fry the potato. Step 2: Add ginger and cook. Step 3: cook and serve.",veg,507,60
+41,Spicy Chicken Stir-fry,"butter, carrot, cheese, chicken breast, cumin, egg, oil, salt","Step 1: fry the butter. Step 2: Add egg and cook. Step 3: bake and serve.",nonveg,416,20
+42,Lemon Herb Chicken,"carrot, cheese, chicken, egg, ginger, oil, salt, sugar","Step 1: fry the egg. Step 2: Add ginger and cook. Step 3: cook and serve.",nonveg,570,30
+43,Classic Tomato Pasta,"chicken, flour, garlic, ginger, milk, oil, salt, tomato","Step 1: slice the milk. Step 2: Add tomato and cook. Step 3: steam and serve.",nonveg,494,30
+44,Spinach and Feta Quiche,"carrot, cheese, coriander, egg, garlic, ginger, oil, salt","Step 1: simmer the ginger. Step 2: Add carrot and cook. Step 3: cook and serve.",nonveg,614,25
+45,Prawn Biryani,"butter, egg, onion, pepper, prawns, rice, salt, sugar","Step 1: chop the pepper. Step 2: Add salt and cook. Step 3: simmer and serve.",nonveg,656,35
+46,Tofu Scramble,"carrot, cheese, coriander, cumin, egg, flour, salt, sugar","Step 1: slice the cheese. Step 2: Add coriander and cook. Step 3: fry and serve.",nonveg,469,20
+47,Baked Salmon with Asparagus,"butter, carrot, cheese, oil, salmon, salt, sugar, tomato","Step 1: slice the butter. Step 2: Add tomato and cook. Step 3: slice and serve.",nonveg,620,25
+48,Lemon Herb Chicken,"carrot, cheese, chicken, flour, garlic, oil, salt, sugar","Step 1: chop the oil. Step 2: Add garlic and cook. Step 3: slice and serve.",nonveg,736,40
+49,Black Bean Burgers,"butter, carrot, cheese, flour, garlic, oil, salt, sugar","Step 1: bake the carrot. Step 2: Add garlic and cook. Step 3: fry and serve.",veg,789,45
+50,Garlic Butter Shrimp,"butter, carrot, egg, flour, garlic, oil, pepper, shrimp","Step 1: slice the flour. Step 2: Add egg and cook. Step 3: chop and serve.",nonveg,591,25
+51,Chocolate Chip Cookies,"cheese, coriander, cumin, egg, flour, ginger, oil, salt","Step 1: cook the cheese. Step 2: Add ginger and cook. Step 3: simmer and serve.",nonveg,470,30
+52,Pork Chops with Apples,"carrot, cumin, garlic, oil, onion, pepper, pork, salt","Step 1: fry the carrot. Step 2: Add salt and cook. Step 3: fry and serve.",nonveg,574,35
+53,Turkey Chili,"carrot, cheese, cumin, egg, onion, salt, tomato, turkey","Step 1: fry the tomato. Step 2: Add cheese and cook. Step 3: simmer and serve.",nonveg,620,40
+54,Prawn Biryani,"butter, garlic, oil, onion, pepper, prawns, rice, salt","Step 1: slice the salt. Step 2: Add pepper and cook. Step 3: steam and serve.",nonveg,490,20
+55,Lentil Soup,"cheese, coriander, cumin, egg, flour, garlic, oil, pepper","Step 1: chop the coriander. Step 2: Add pepper and cook. Step 3: cook and serve.",nonveg,636,30
+56,Black Bean Burgers,"carrot, cheese, coriander, cumin, egg, oil, pepper, salt","Step 1: simmer the salt. Step 2: Add pepper and cook. Step 3: simmer and serve.",nonveg,416,40
+57,Chicken Noodle Soup,"butter, cheese, chicken, flour, oil, onion, salt, sugar","Step 1: chop the butter. Step 2: Add flour and cook. Step 3: fry and serve.",nonveg,793,30
+58,Tuna Salad Sandwich,"carrot, cheese, cumin, egg, ginger, oil, pepper, salt","Step 1: chop the ginger. Step 2: Add cumin and cook. Step 3: fry and serve.",nonveg,618,25
+59,Potato Salad,"cheese, coriander, cumin, egg, garlic, oil, potato, salt","Step 1: steam the coriander. Step 2: Add garlic and cook. Step 3: slice and serve.",nonveg,736,25
+60,Mushroom Risotto,"butter, carrot, cheese, flour, milk, oil, onion, salt","Step 1: cook the carrot. Step 2: Add oil and cook. Step 3: simmer and serve.",veg,778,60
+61,Vegetable Curry,"butter, carrot, cheese, flour, ginger, oil, salt, sugar","Step 1: boil the butter. Step 2: Add ginger and cook. Step 3: cook and serve.",veg,553,30
+62,Pork Chops with Apples,"carrot, cheese, egg, flour, milk, onion, salt, sugar","Step 1: simmer the flour. Step 2: Add salt and cook. Step 3: bake and serve.",nonveg,664,45
+63,Baked Salmon with Asparagus,"butter, cheese, coriander, cumin, oil, onion, salmon fillet, salt","Step 1: bake the cumin. Step 2: Add coriander and cook. Step 3: cook and serve.",nonveg,788,60
+64,Classic Tomato Pasta,"carrot, cheese, egg, ginger, milk, oil, onion, tomato","Step 1: fry the tomato. Step 2: Add milk and cook. Step 3: boil and serve.",nonveg,570,35
+65,Quinoa Salad,"butter, carrot, cheese, coriander, flour, oil, pepper, salt","Step 1: fry the butter. Step 2: Add cheese and cook. Step 3: bake and serve.",veg,388,40
+66,Garlic Butter Shrimp,"carrot, cheese, coriander, egg, flour, garlic, oil, shrimp","Step 1: cut the flour. Step 2: Add coriander and cook. Step 3: cook and serve.",nonveg,591,60
+67,Lemon Herb Chicken,"carrot, cheese, chicken, cumin, oil, pepper, salt, sugar","Step 1: steam the cumin. Step 2: Add cheese and cook. Step 3: cook and serve.",nonveg,386,40
+68,Chocolate Chip Cookies,"butter, cheese, egg, flour, oil, onion, rice, sugar","Step 1: bake the butter. Step 2: Add egg and cook. Step 3: chop and serve.",nonveg,497,30
+69,Lamb Korma,"carrot, cheese, coriander, garlic, ginger, lamb, oil, salt","Step 1: slice the oil. Step 2: Add ginger and cook. Step 3: simmer and serve.",nonveg,481,25
+70,Spicy Chicken Stir-fry,"butter, carrot, cheese, chicken breast, cumin, egg, oil, salt","Step 1: bake the carrot. Step 2: Add egg and cook. Step 3: cut and serve.",nonveg,663,45
+71,Tofu Scramble,"butter, carrot, cheese, coriander, egg, flour, salt, sugar","Step 1: boil the salt. Step 2: Add coriander and cook. Step 3: cook and serve.",nonveg,553,25
+72,Chicken Noodle Soup,"butter, cheese, chicken, egg, ginger, oil, salt, tomato","Step 1: cook the ginger. Step 2: Add cheese and cook. Step 3: slice and serve.",nonveg,707,35
+73,Mushroom Risotto,"cheese, coriander, egg, flour, garlic, oil, salt, sugar","Step 1: bake the coriander. Step 2: Add garlic and cook. Step 3: slice and serve.",nonveg,512,35
+74,Apple Pie,"butter, carrot, cheese, flour, garlic, milk, onion, sugar","Step 1: fry the butter. Step 2: Add milk and cook. Step 3: simmer and serve.",veg,568,30
+75,Prawn Biryani,"butter, cheese, egg, oil, onion, pepper, prawns, rice","Step 1: fry the egg. Step 2: Add oil and cook. Step 3: slice and serve.",nonveg,484,20
+76,Black Bean Burgers,"carrot, cheese, coriander, cumin, egg, oil, pepper, salt","Step 1: steam the coriander. Step 2: Add cheese and cook. Step 3: steam and serve.",nonveg,426,35
+77,Potato Salad,"butter, carrot, cheese, coriander, egg, oil, potato, salt","Step 1: bake the butter. Step 2: Add cheese and cook. Step 3: simmer and serve.",nonveg,688,25
+78,Tuna Salad Sandwich,"butter, carrot, cheese, egg, flour, garlic, oil, tomato","Step 1: cook the tomato. Step 2: Add garlic and cook. Step 3: slice and serve.",nonveg,609,30
+79,Spinach and Feta Quiche,"butter, carrot, cheese, coriander, egg, oil, onion, salt","Step 1: slice the butter. Step 2: Add carrot and cook. Step 3: bake and serve.",nonveg,570,35
+80,Lentil Soup,"butter, carrot, cheese, egg, flour, oil, potato, salt","Step 1: chop the butter. Step 2: Add potato and cook. Step 3: cut and serve.",nonveg,567,60
+81,Chocolate Chip Cookies,"carrot, cheese, flour, garlic, milk, oil, onion, sugar","Step 1: chop the onion. Step 2: Add cheese and cook. Step 3: slice and serve.",veg,789,35
+82,Quinoa Salad,"butter, carrot, cheese, flour, garlic, pepper, rice, sugar","Step 1: fry the butter. Step 2: Add garlic and cook. Step 3: fry and serve.",veg,789,25
+83,Turkey Chili,"carrot, cheese, cumin, egg, onion, salt, tomato, turkey","Step 1: chop the tomato. Step 2: Add cheese and cook. Step 3: cook and serve.",nonveg,736,20
+84,Baked Salmon with Asparagus,"butter, cheese, ginger, oil, salmon fillet, salt, sugar, turmeric","Step 1: cook the sugar. Step 2: Add ginger and cook. Step 3: simmer and serve.",nonveg,579,40
+85,Pork Chops with Apples,"carrot, cheese, cumin, egg, flour, oil, onion, salt","Step 1: fry the cumin. Step 2: Add oil and cook. Step 3: simmer and serve.",nonveg,457,45
+86,Mushroom Risotto,"butter, carrot, cheese, flour, garlic, milk, onion, salt","Step 1: bake the garlic. Step 2: Add milk and cook. Step 3: boil and serve.",veg,559,40
+87,Classic Tomato Pasta,"chicken, flour, garlic, ginger, oil, pasta, salt, tomato","Step 1: cut the salt. Step 2: Add ginger and cook. Step 3: bake and serve.",nonveg,684,20
+88,Vegetable Curry,"carrot, cheese, ginger, onion, pasta, pepper, salt, sugar","Step 1: chop the sugar. Step 2: Add ginger and cook. Step 3: cook and serve.",veg,726,45
+89,Garlic Butter Shrimp,"butter, carrot, egg, flour, garlic, oil, pepper, shrimp","Step 1: boil the butter. Step 2: Add carrot and cook. Step 3: fry and serve.",nonveg,379,30
+90,Lemon Herb Chicken,"carrot, cheese, chicken breast, cumin, oil, onion, pepper, salt","Step 1: chop the cheese. Step 2: Add onion and cook. Step 3: cook and serve.",nonveg,507,60
+91,Tofu Scramble,"butter, carrot, cheese, coriander, egg, flour, salt, sugar","Step 1: mix the coriander. Step 2: Add butter and cook. Step 3: bake and serve.",nonveg,416,20
+92,Prawn Biryani,"butter, garlic, oil, onion, pepper, prawns, rice, salt","Step 1: cook the butter. Step 2: Add onion and cook. Step 3: cook and serve.",nonveg,570,30
+93,Lamb Korma,"coriander, garlic, ginger, lamb cubes, oil, onion, pepper, salt","Step 1: bake the oil. Step 2: Add ginger and cook. Step 3: slice and serve.",nonveg,494,30
+94,Apple Pie,"butter, carrot, cheese, flour, garlic, milk, onion, sugar","Step 1: cook the butter. Step 2: Add flour and cook. Step 3: cook and serve.",veg,614,25
+95,Black Bean Burgers,"butter, carrot, cheese, coriander, egg, oil, pepper, salt","Step 1: slice the pepper. Step 2: Add carrot and cook. Step 3: simmer and serve.",nonveg,656,35
+96,Potato Salad,"butter, carrot, cheese, coriander, egg, oil, potato, salt","Step 1: boil the coriander. Step 2: Add potato and cook. Step 3: cook and serve.",nonveg,469,20
+97,Tuna Salad Sandwich,"butter, carrot, cheese, egg, flour, garlic, oil, tomato","Step 1: mix the egg. Step 2: Add tomato and cook. Step 3: slice and serve.",nonveg,620,25
+98,Spinach and Feta Quiche,"butter, carrot, cheese, coriander, egg, oil, onion, salt","Step 1: bake the salt. Step 2: Add carrot and cook. Step 3: slice and serve.",nonveg,736,40
+99,Chicken Noodle Soup,"butter, cheese, chicken, flour, oil, onion, salt, sugar","Step 1: steam the salt. Step 2: Add chicken and cook. Step 3: fry and serve.",nonveg,789,45
+100,Lentil Soup,"butter, carrot, cheese, egg, flour, oil, potato, salt","Step 1: slice the potato. Step 2: Add butter and cook. Step 3: fry and serve.",nonveg,789,25
+101,Chocolate Chip Cookies,"carrot, cheese, flour, garlic, milk, oil, onion, sugar","Step 1: chop the oil. Step 2: Add onion and cook. Step 3: cook and serve.",veg,736,20
+102,Garlic Butter Shrimp,"butter, carrot, egg, flour, garlic, oil, pepper, shrimp","Step 1: boil the butter. Step 2: Add pepper and cook. Step 3: slice and serve.",nonveg,579,40
+103,Quinoa Salad,"butter, carrot, cheese, flour, garlic, pepper, rice, sugar","Step 1: cut the flour. Step 2: Add garlic and cook. Step 3: simmer and serve.",veg,457,45
+104,Spicy Chicken Stir-fry,"butter, carrot, cheese, chicken, cumin, egg, oil, salt","Step 1: simmer the salt. Step 2: Add carrot and cook. Step 3: boil and serve.",nonveg,559,40
+105,Turkey Chili,"carrot, cheese, cumin, egg, onion, salt, tomato, turkey","Step 1: mix the tomato. Step 2: Add cheese and cook. Step 3: bake and serve.",nonveg,684,20
+106,Baked Salmon with Asparagus,"butter, cheese, ginger, oil, salmon, salt, sugar, turmeric","Step 1: chop the turmeric. Step 2: Add ginger and cook. Step 3: cook and serve.",nonveg,726,45
+107,Pork Chops with Apples,"carrot, cheese, cumin, egg, flour, oil, onion, salt","Step 1: cut the onion. Step 2: Add flour and cook. Step 3: fry and serve.",nonveg,379,30
+108,Classic Tomato Pasta,"chicken, flour, garlic, ginger, oil, pasta, salt, tomato","Step 1: chop the ginger. Step 2: Add garlic and cook. Step 3: cook and serve.",nonveg,507,60
+109,Vegetable Curry,"carrot, cheese, ginger, onion, pasta, pepper, salt, sugar","Step 1: simmer the salt. Step 2: Add onion and cook. Step 3: bake and serve.",veg,416,20
+110,Mushroom Risotto,"butter, carrot, cheese, flour, garlic, milk, onion, salt","Step 1: bake the milk. Step 2: Add flour and cook. Step 3: cook and serve.",veg,570,30
+111,Cheese Omelette,"butter, flour, ginger, oil, onion, pepper, rice, salt","Step 1: boil the butter. Step 2: Add ginger and cook. Step 3: slice and serve.",veg,494,30
+112,Lamb Korma,"coriander, garlic, ginger, lamb, oil, onion, pepper, salt","Step 1: chop the oil. Step 2: Add coriander and cook. Step 3: cook and serve.",nonveg,614,25
+113,Tofu Scramble,"butter, carrot, cheese, coriander, egg, flour, salt, sugar","Step 1: cut the sugar. Step 2: Add egg and cook. Step 3: simmer and serve.",nonveg,656,35
+114,Apple Pie,"butter, carrot, cheese, flour, garlic, milk, onion, sugar","Step 1: cook the butter. Step 2: Add onion and cook. Step 3: cook and serve.",veg,469,20
+115,Potato Salad,"butter, carrot, cheese, coriander, egg, oil, potato, salt","Step 1: bake the salt. Step 2: Add carrot and cook. Step 3: fry and serve.",nonveg,620,25
+116,Black Bean Burgers,"butter, carrot, cheese, coriander, egg, oil, pepper, salt","Step 1: slice the pepper. Step 2: Add butter an
